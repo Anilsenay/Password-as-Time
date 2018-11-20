@@ -1,7 +1,7 @@
 from time import gmtime, strftime
 
 username = "admin"
-password = str(int(strftime("%d%m%H%M", gmtime()))+300)
+password = str(int(strftime("%d%m%H%M", gmtime()))+300) ## +300 for GMT+3 which is my timezone
 
 signed = False
 
