@@ -3,3 +3,4 @@ A simple project which taking current time (combined [day][month][hour][minute] 
 
 So, password is changing every minute and you don't need to learn it from anywhere. You just have to look at your clock :)
 
+![resim](https://media.giphy.com/media/yB5Wg1MSnkayc/giphy.gif)
